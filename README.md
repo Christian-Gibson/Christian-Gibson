@@ -2,7 +2,10 @@
 
 - In the midst of completing my software development degree. 🏫
 
-- Came from a science background! 🔬
+- Very strong science background! 🔬
+- Including...Chemistry ⚗️ 
+              Biology 👨‍🔬
+              Physics ⚛️
 
 <!---
 Christian-Gibson/Christian-Gibson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
