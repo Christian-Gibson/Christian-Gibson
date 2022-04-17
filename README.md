@@ -4,7 +4,7 @@
 
 - Very strong science background! 🔬
 - Including...Chemistry ⚗️ 
-              Biology 👨‍🔬
+              Biology 🫀
               Physics ⚛️
 
 <!---
