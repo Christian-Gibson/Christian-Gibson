@@ -6,6 +6,9 @@
 - Including...Chemistry ⚗️ 
               Biology 🧠
               Physics ⚛️
+              
+ - Current sparetime reading...Beginning C++ Through Game Programming, Fourth Edition by Michael Dawson
+                       Beginning C# Programming with Unity, (VSE Edition) by A.T. Chamillard
 
 <!---
 Christian-Gibson/Christian-Gibson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
