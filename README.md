@@ -12,7 +12,7 @@
  - Current classes: 
      - Network and Security Foundations (C172)
      - Web Dev Foundations (C779)
-     - Scripting and Programming Foundations (C173)           
+             
               
  - Current sparetime reading...
      - Beginning C++ Through Game Programming (Fourth Edition), by Michael Dawson
