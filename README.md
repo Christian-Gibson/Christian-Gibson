@@ -11,7 +11,6 @@
               
  - Current classes: 
      - Network and Security Foundations (C172)
-     - Web Dev Foundations (C779)
              
               
  - Current sparetime reading...
