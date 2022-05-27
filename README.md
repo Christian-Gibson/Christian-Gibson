@@ -1,12 +1,14 @@
 - My name is Christian Gibson, and I am an aspiring software developer. 💻
+    - Self taught in primarily C# and C++, and learning more everyday.
 
 - In the midst of completing my software development degree at WGU. 🏫
 
 - Very strong science background! 🔬
-
-- Including...Chemistry ⚗️ 
-              Biology 🧠
-              Physics ⚛️
+      -Including...Chemistry ⚗️ 
+                 Biology 🧠
+                 Physics ⚛️
+              
+             
                          
               
  - Current classes: 
