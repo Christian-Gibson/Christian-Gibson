@@ -12,7 +12,12 @@
                          
               
  - Current classes: 
-     - Network and Security Foundations (C172)
+     - Data Structures & Algorithms
+     - Data Management Foundations
+     - Data Management Applications
+     - Advanced Data Management
+     - Web Development Applications
+     - Scripting & Programming Applications
              
               
  - Current sparetime reading...
