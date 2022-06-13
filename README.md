@@ -9,11 +9,9 @@
                  Physics ⚛️
               
              
-                         
-              
+                        
  - Current classes: 
      - Data Structures & Algorithms
-     - Data Management Foundations
      - Data Management Applications
      - Advanced Data Management
      - Web Development Applications
