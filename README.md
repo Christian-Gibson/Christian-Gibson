@@ -1,22 +1,14 @@
-- My name is Christian Gibson, and I am an aspiring software developer. 💻
+- My name is Christian Gibson, software developer. 💻
     - Began learning programming/development in 2021; intiailly by self teaching C# and C++, and learning more everyday. 
 
-- In the midst of completing my software development degree at WGU. 🏫 
+- Software development degree at WGU. 🏫 
 
 - Very strong science background! 🔬
       -Including...Chemistry ⚗️ 
                  Biology 🧠
                  Physics ⚛️
               
-             
-                        
- - Current classes: 
-     - Data Management Applications
-     - Advanced Data Management
-     - Web Development Applications
-     - Scripting & Programming Applications
-             
-              
+                    
  - Current sparetime reading...
      - Beginning C++ Through Game Programming (Fourth Edition), by Michael Dawson
      - Beginning C# Programming with Unity (VSE Edition), by A.T. Chamillard
