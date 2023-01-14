@@ -1,7 +1,7 @@
 - My name is Christian Gibson, software developer. 💻
     - Began learning programming/development in 2020; initially by self teaching C# and C++, and learning more everyday. 
 
-- Software Development degree at WGU. 🏫 
+- Current working on my Software Engineering degree. 🏫 
 
 - Very strong science background! 🔬
       -Including...Chemistry ⚗️ 
