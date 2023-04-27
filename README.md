@@ -1,4 +1,4 @@
-- My name is Christian Gibson, software developer. 💻
+- My name is Christian Gibson, software engineer. 💻
     - Began learning programming/development in 2020; initially by self teaching C# and C++, and learning more everyday. 
 
 - Current working on my Software Engineering degree. 🏫 
