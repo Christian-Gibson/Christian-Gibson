@@ -3,15 +3,15 @@
 
 - Current working on my Software Engineering degree. 🏫 
 
-- Very strong science background! 🔬
-      -Including...Chemistry ⚗️ 
-                 Biology 🧠
-                 Physics ⚛️
+- Very strong science background/relevant coursework! 🔬
+      -Including...Software Engineering 💻
+                   Chemistry ⚗️ 
+                   Biology 🧠
+                   Physics ⚛️
               
                     
  - Current sparetime reading...
-     - Beginning C++ Through Game Programming (Fourth Edition), by Michael Dawson
-     - Beginning C# Programming with Unity (VSE Edition), by A.T. Chamillard
+     - Battle Cry Of Freedom: The Civil War Era by James M. McPherson
 
 <!---
 Christian-Gibson/Christian-Gibson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
