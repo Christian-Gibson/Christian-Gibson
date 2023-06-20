@@ -7,6 +7,11 @@
 - Current sparetime playing...
      - Rollercoaster Tycoon 
 
+- Current sparetime studying...
+     - Amazon Web Services Certified Developer Associate
+
+
+
 <!---
 Christian-Gibson/Christian-Gibson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
