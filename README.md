@@ -1,17 +1,11 @@
-- My name is Christian Gibson, software engineer. 💻
-    - Began learning programming/development in 2020; initially by self teaching C# and C++, and learning more everyday. 
-
-- Current working on my Software Engineering degree. 🏫 
-
-- Very strong science background/relevant coursework! 🔬
-      -Including...Software Engineering 💻
-                   Chemistry ⚗️ 
-                   Biology 🧠
-                   Physics ⚛️
-              
+- Christian Gibson, software engineer 💻
+   
                     
  - Current sparetime reading...
      - Battle Cry Of Freedom: The Civil War Era by James M. McPherson
+
+- Current sparetime playing...
+     - Rollercoaster Tycoon 
 
 <!---
 Christian-Gibson/Christian-Gibson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
