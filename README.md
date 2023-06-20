@@ -5,7 +5,7 @@
      - Battle Cry Of Freedom: The Civil War Era by James M. McPherson
 
 - Current sparetime playing...
-     - Rollercoaster Tycoon 
+     - RollerCoaster Tycoon 
 
 - Next Certification(s)...
      - Amazon Web Services Certified Developer Associate
