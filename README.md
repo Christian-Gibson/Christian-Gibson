@@ -11,13 +11,14 @@
 -----
                     
  - Current sparetime reading...
-     - Battle Cry Of Freedom: The Civil War Era by James M. McPherson
+     - Forged In Battle by Joseph Glathaar
 
 - Current sparetime playing...
-     - RollerCoaster Tycoon 
+     - Planet Zoo (Console Edition) 
 
 - Next Certification(s)...
      - Amazon Web Services Certified Developer Associate
+     - CompTIA Sec Plus
 
 
 
