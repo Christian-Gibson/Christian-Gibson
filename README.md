@@ -9,16 +9,10 @@
 </div>
 
 -----
-                    
- - Current sparetime reading...
-     - Forged In Battle by Joseph Glathaar
-
+      
 - Current sparetime playing...
-     - Planet Zoo (Console Edition) 
+     - DragonBall Z Sparking Zero
 
-- Next Certification(s)...
-     - Amazon Web Services Certified Developer Associate
-     - CompTIA Sec Plus
 
 
 
